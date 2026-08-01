@@ -19,7 +19,7 @@ static var instance: Player;
 @export var speed: float = 5.0;
 @export var handicapped_speed: float = 3;
 @export var jump_velocity: float = 6;
-@export var handicapped_jump_velocity: float = 5;
+@export var handicapped_jump_velocity: float = 15;
 @export var gravity_multiplier: float = 1.0;
 
 @export var throw_speed_min: float = 6.0;
