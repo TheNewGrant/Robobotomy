@@ -16,6 +16,8 @@ dest_files=["res://.godot/imported/pipes.fbx-85a2dfa0906f953c87bb5b7cb0742566.sc
 nodes/root_type=""
 nodes/root_name=""
 nodes/root_script=null
+mesh_library/use_node_names_as_mesh_names=false
+array_mesh/deduplicate_surfaces=true
 nodes/apply_root_scale=true
 nodes/root_scale=100.0
 nodes/import_as_skeleton_bones=false
@@ -45,7 +47,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Scenes/Vertical Slice/3d assetts/kitbash/pipe1_long.res",
+"save_to_file/fallback_path": "res://Assets/3D/Objects/Pipes/pipe1_long.res",
 "save_to_file/path": "uid://dodoyqd473sd0"
 },
 "pipe1_medium": {
@@ -54,7 +56,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Scenes/Vertical Slice/3d assetts/kitbash/pipe1_medium.res",
+"save_to_file/fallback_path": "res://Assets/3D/Objects/Pipes/pipe1_medium.res",
 "save_to_file/path": "uid://d1iqktciv7tc8"
 },
 "pipe1_short": {
@@ -63,7 +65,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Scenes/Vertical Slice/3d assetts/kitbash/pipe1_short.res",
+"save_to_file/fallback_path": "res://Assets/3D/Objects/Pipes/pipe1_short.res",
 "save_to_file/path": "uid://bs7mr6pntvtby"
 }
 }

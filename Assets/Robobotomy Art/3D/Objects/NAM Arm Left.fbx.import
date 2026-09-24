@@ -16,6 +16,8 @@ dest_files=["res://.godot/imported/NAM Arm Left.fbx-a5212ce700bdb1768718d1ae9f00
 nodes/root_type="CharacterBody3D"
 nodes/root_name="Nameless"
 nodes/root_script=Resource("uid://dinm6607n8npe", "res://Scripts/_Deprecated/StateMachine/character.gd")
+mesh_library/use_node_names_as_mesh_names=false
+array_mesh/deduplicate_surfaces=true
 nodes/apply_root_scale=true
 nodes/root_scale=1.0
 nodes/import_as_skeleton_bones=false
@@ -45,7 +47,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Ankle_Light.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Ankle_Light.res",
 "save_to_file/path": "uid://cv15l7u5bntxt"
 },
 "Ankle_Light2": {
@@ -54,7 +56,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Ankle_Light2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Ankle_Light2.res",
 "save_to_file/path": "uid://bha5la5rbpula"
 },
 "Armor_Bit": {
@@ -63,7 +65,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Armor_Bit.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Armor_Bit.res",
 "save_to_file/path": "uid://dmggdw1ovogf3"
 },
 "Armor_Bit2": {
@@ -72,7 +74,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Armor_Bit2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Armor_Bit2.res",
 "save_to_file/path": "uid://xjkd1y78y8cy"
 },
 "Chest": {
@@ -81,7 +83,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Chest.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Chest.res",
 "save_to_file/path": "uid://cj3i70i41oq7n"
 },
 "Eye_LidsL": {
@@ -126,7 +128,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Foot.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Foot.res",
 "save_to_file/path": "uid://dew8m0ce80vxt"
 },
 "Foot2": {
@@ -135,7 +137,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Foot2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Foot2.res",
 "save_to_file/path": "uid://fhdpodsdccb5"
 },
 "Hair_tuft": {
@@ -144,7 +146,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Hair_tuft.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Hair_tuft.res",
 "save_to_file/path": "uid://c8sncvty2tomo"
 },
 "Hand": {
@@ -153,7 +155,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Hand.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Hand.res",
 "save_to_file/path": "uid://dq1lvn0kiyrnt"
 },
 "Hand2": {
@@ -162,7 +164,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Hand2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Hand2.res",
 "save_to_file/path": "uid://beolgwbue51r4"
 },
 "Head_and_Hair": {
@@ -171,7 +173,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Head_and_Hair.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Head_and_Hair.res",
 "save_to_file/path": "uid://cvfblncoo4d8b"
 },
 "Heart": {
@@ -180,7 +182,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Heart.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Heart.res",
 "save_to_file/path": "uid://dm2bbt6qfcde3"
 },
 "Hips": {
@@ -189,7 +191,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Hips.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Hips.res",
 "save_to_file/path": "uid://dbhvhv7v6iag6"
 },
 "Knee_Light": {
@@ -198,7 +200,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Knee_Light.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Knee_Light.res",
 "save_to_file/path": "uid://cqx2cfxlh35mi"
 },
 "Knee_Light2": {
@@ -207,7 +209,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Knee_Light2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Knee_Light2.res",
 "save_to_file/path": "uid://djfylcmwoyhmo"
 },
 "LBow_Light": {
@@ -216,7 +218,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/LBow_Light.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/LBow_Light.res",
 "save_to_file/path": "uid://balad6i5dlvnf"
 },
 "LBow_Light2": {
@@ -225,7 +227,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/LBow_Light2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/LBow_Light2.res",
 "save_to_file/path": "uid://ddjydth3l11my"
 },
 "Lower_Leg": {
@@ -234,7 +236,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Lower_Leg.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Lower_Leg.res",
 "save_to_file/path": "uid://tamu73mij3mp"
 },
 "Lower_Leg2": {
@@ -243,7 +245,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Lower_Leg2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Lower_Leg2.res",
 "save_to_file/path": "uid://dfmexgy4p6gwj"
 },
 "Mouth": {
@@ -252,7 +254,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Mouth.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Mouth.res",
 "save_to_file/path": "uid://bvyeyi24xm0e"
 },
 "Neck": {
@@ -261,7 +263,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Neck.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Neck.res",
 "save_to_file/path": "uid://dcwobn8idii7l"
 },
 "Upper_Arm": {
@@ -270,7 +272,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Upper_Arm.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Upper_Arm.res",
 "save_to_file/path": "uid://bbjwd1fk7oqfl"
 },
 "Upper_Arm2": {
@@ -279,7 +281,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Upper_Arm2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Upper_Arm2.res",
 "save_to_file/path": "uid://uf5rkpmq2owq"
 },
 "Upper_Leg": {
@@ -288,7 +290,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Upper_Leg.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Upper_Leg.res",
 "save_to_file/path": "uid://junqlj1trmor"
 },
 "Upper_Leg2": {
@@ -297,7 +299,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Upper_Leg2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Upper_Leg2.res",
 "save_to_file/path": "uid://ck8hnv6jga2vs"
 },
 "Wrist": {
@@ -306,7 +308,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Wrist.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Wrist.res",
 "save_to_file/path": "uid://ytcmfdiagb24"
 },
 "Wrist2": {
@@ -315,7 +317,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Wrist2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Wrist2.res",
 "save_to_file/path": "uid://ekfmuchbsg6k"
 },
 "Wrist_Light": {
@@ -324,7 +326,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Wrist_Light.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Wrist_Light.res",
 "save_to_file/path": "uid://c2fijiv16bssc"
 },
 "Wrist_Light2": {
@@ -333,7 +335,7 @@ _subresources={
 "generate/shadow_meshes": 0,
 "lods/normal_merge_angle": 20.0,
 "save_to_file/enabled": true,
-"save_to_file/fallback_path": "res://Assets/Robobotomy Art/3D/Character/Wrist_Light2.res",
+"save_to_file/fallback_path": "res://Assets/3D/Character/Wrist_Light2.res",
 "save_to_file/path": "uid://ced3t4qccpaia"
 }
 }
