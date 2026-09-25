@@ -1,7 +1,5 @@
 extends CanvasLayer;
 
-@onready var title_screen: TitleScreen = $TitleScreen;
-
 var radial_menu : RadialMenu : get = _get_radial_menu;
 
 const RADIAL_MENU_SCENE = preload("uid://b2lsnrmivu4ky");
