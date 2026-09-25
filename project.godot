@@ -33,7 +33,6 @@ LevelManager="*res://Scripts/Autoloads/level_manager.gd"
 EventBus="*res://Scripts/Autoloads/event_bus.gd"
 LayerNames="*uid://b5oond0fqbarv"
 Interface="*uid://kdtjf4rehi4g"
-_mcp_game_helper="*res://addons/godot_ai/runtime/game_helper.gd"
 
 [display]
 
