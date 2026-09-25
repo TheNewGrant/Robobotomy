@@ -2442,7 +2442,7 @@ transform = Transform3D(0.443, 0, 0, 0, 13.999731, 0, 0, 0, 0.44299158, -2.85955
 mesh = SubResource("CylinderMesh_wspkt")
 
 [node name="Cylinder2" type="MeshInstance3D" parent="Level2_torso2/Level2_Node3D/CranePath/AnimatableBody3D" unique_id=1693599265]
-transform = Transform3D(0.443, 0, 0, 0, 13.99994, 0, 0, 0, 0.4429981, 2.8881302, 16.590439, -1.2829998)
+transform = Transform3D(0.443, 0, 0, 0, 13.999939, 0, 0, 0, 0.44299814, 2.8881302, 16.590437, -1.2829996)
 mesh = SubResource("CylinderMesh_wspkt")
 
 [node name="CranePath2" parent="Level2_torso2/Level2_Node3D" unique_id=1284623474 node_paths=PackedStringArray("target_follower") instance=ExtResource("13_qu6t7")]
